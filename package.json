@@ -1,10 +1,11 @@
 {
-    "name": "bottom-terminal",
-    "displayName": "Bottom Terminal",
+    "name": "terminal-button",
+    "displayName": "Terminal Button",
     "keywords": [
         "bottom",
         "terminal",
-        "bottom-terminal",
+        "terminal-button",
+        "terminal button",
         "bottom terminal",
         "status bar terminal",
         "status bar",
@@ -14,7 +15,7 @@
     "version": "0.1.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/company4-dev/vscode-ext-bottom-terminal"
+        "url": "https://github.com/company4-dev/vscode-ext-terminal-button"
     },
     "icon": "icon.png",
     "engines": {
@@ -31,7 +32,7 @@
     "contributes": {
         "commands": [
             {
-                "command": "bottom-terminal",
+                "command": "terminal-button",
                 "title": "Bottom Terminal"
             }
         ]
